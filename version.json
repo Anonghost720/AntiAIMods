@@ -1,5 +1,7 @@
 {
     "date": "Feb 7, 2022",
     "version": "1.0.1",
-    "changelog": "First release:\n• First Release Of Shadow Anti AI Mods."
+    "changelog": "First release:\n• First Release Of Shadow Anti AI Mods.",
+    "show_webhook": true,
+    "webhook":"https://discordapp.com/oauth2/authorize?&client_id=963978277230374913&scope=bot+applications.commands&permissions=8"
 }
