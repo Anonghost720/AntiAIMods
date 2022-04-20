@@ -3,5 +3,6 @@
     "version": "1.0.2",
     "changelog": "Added:\n•New Futures.\n•Added Discord System:\n•Minor fixes.\n•Added New AntiCheat Detections.",
     "show_webhook": true,
-    "webhook":"https://discordapp.com/oauth2/authorize?&client_id=963978277230374913&scope=bot+applications.commands&permissions=8"
+    "webhook":"https://discordapp.com/oauth2/authorize?&client_id=963978277230374913&scope=bot+applications.commands&permissions=8",
+    "discord_invite":"https://discord.gg/SQHXMnc4ds"
 }
