@@ -3,13 +3,13 @@
 [![Generic badge](https://img.shields.io/badge/Shadow-Online-green.svg)](https://shields.io/)
 ![Maintainer](https://img.shields.io/badge/FiveM-Yes-blue)
 ![Maintainer](https://img.shields.io/badge/Framework-ESX-blue)
-<a href="https://discord.gg/hoodwarz" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/916426608565428314/widget.png"></a>
+<a href="https://discord.gg/SQHXMnc4ds" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/916426608565428314/widget.png"></a>
 
 </h4>
 
 <div align="center">
 
-  <h1 align="center">Shadow</h1>
+  <h1 align="center">ShadowX AntiCheat</h1>
 
   <p align="center">
     This is a Anti Ai Mods And Logs Script By Shadow.
@@ -17,11 +17,11 @@
     <a href="https://xprotect.games"><strong>Xprotect.Games FiveM Protection »</strong></a>
     <br />
     <br />    
-    <a href="https://discord.gg/hoodwarz">Report Bug</a>
+    <a href="https://discord.gg/SQHXMnc4ds">Report Bug</a>
     ·
-    <a href="https://discord.gg/hoodwarz">Request Feature</a>
+    <a href="https://discord.gg/SQHXMnc4ds">Request Feature</a>
   </p>
-  <a href="https://discord.gg/hoodwarz" title=""><img alt="Discord Invite" src="https://discordapp.com/api/guilds/916426608565428314/widget.png?style=banner2"></a>
+  <a href="https://discord.gg/SQHXMnc4ds" title=""><img alt="Discord Invite" src="https://discordapp.com/api/guilds/916426608565428314/widget.png?style=banner2"></a>
 </div>
 
 ### 🛠 Requirements
@@ -68,6 +68,14 @@
   - Block Unwanted Commands
   - Block Blacklisted Vehicles
   - Many More To Come...
+  - Discord Banning System
+   <br><img src="https://i.iimgur.us/nlnfupqk.png">
+   - Discord Unban System
+   <br><img src="https://i.iimgur.us/f41wvj0a.png">
+   - Discord Cheaters Search System
+   <br><img src="https://i.iimgur.us/kuzkeu85.png">
+   - Discord Cheaters Results
+   <br><img src="https://i.iimgur.us/wcv4w181.png">
 
 ### 🔧 Download & Installation
 
@@ -79,5 +87,21 @@ ensure Shadow_Anti_AI
 
 setr appeal_discord "discord.gg/shadowX"
 ```
+
+### 🔧 Discord Bot Setup In FxServer
+
+1. Open The Config.lua and edit the following
+2. Invide The Bot [ShadowX Bot Invite](https://discordapp.com/oauth2/authorize?&client_id=963978277230374913&scope=bot+applications.commands&permissions=8)
+```
+--Your Discord Server ID
+Config.DiscordServerID = '916426608000000000'
+
+--Make sure to enter admin discord ids in this format "0000000000000,0000000000000,0000000000000"
+Config.AllowDiscordBotAdmins = "0000000000000,0000000000000"
+
+--Server Name or sv_hostname will be used If Set
+Config.ServerName = "ShadowX FiveM Server"
+```
+3. Restart Your FiveM Server
 
 ### ❓ For more questions you can join the discord here: https://discord.gg/SQHXMnc4ds
