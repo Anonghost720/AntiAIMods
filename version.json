@@ -1,6 +1,6 @@
 {
-    "date": "Apr 20, 2022",
-    "version": "1.0.3",
+    "date": "Apr 25, 2022",
+    "version": "1.0.4",
     "changelog": "Added:\n•New Futures.\n•Added Discord System:\n•Minor fixes.\n•Added New AntiCheat Detections.",
     "show_webhook": true,
     "webhook": "https://discordapp.com/oauth2/authorize?&client_id=963978277230374913&scope=bot+applications.commands&permissions=8",
